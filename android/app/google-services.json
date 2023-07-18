@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590199103841",
+    "project_id": "fir-full-app-ee06e",
+    "storage_bucket": "fir-full-app-ee06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590199103841:android:162fec95ce1ff384afa520",
+        "android_client_info": {
+          "package_name": "com.sameer.flutter_firebase_full_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590199103841-r19t02r16hmtlmolq4k2qd5dc50l73vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7G48vV0f_QRN8g69B9j2c1Xw3cRgjl9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590199103841-r19t02r16hmtlmolq4k2qd5dc50l73vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
